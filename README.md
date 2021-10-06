@@ -9,6 +9,6 @@
 
 Compilation Options:
 1. To play run ```chmod +x ./compile.sh 1``` in project directory
-![Self](https://raw.githubusercontent.com/mahir1010/SnakeClassic/screenshot/SnakeClassic.gif)
 2. Then run ``./snake```
 3. Then in new terminal run ```python3 Controller.py```
+![Self](https://raw.githubusercontent.com/mahir1010/SnakeClassic/screenshot/SnakeClassic.gif)
